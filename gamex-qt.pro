@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = EurobitsCoin-qt
-macx:TARGET = "EurobitsCoin-Qt"
+TARGET = gamex-qt
+macx:TARGET = "gamex-Qt"
 VERSION = 1.0.0.1
 INCLUDEPATH += src src/json src/qt
 QT += network
